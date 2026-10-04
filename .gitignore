@@ -1,2 +1,4 @@
 __pycache__/
 *.pyc
+# repo PUBLIK: data mentah tidak boleh di-commit, hanya data/dashboard.json.enc
+data/*.json
